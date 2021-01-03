@@ -54,7 +54,7 @@ module.exports = {
             },
             {
               label: "Second Doc",
-              to: "docs/doc2/",
+              to: "docs/past-events/doc2/",
             },
           ],
         },
