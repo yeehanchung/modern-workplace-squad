@@ -1,113 +1,103 @@
 module.exports = {
-  title: "Modern Workplace Squad",
-  tagline: "Learn more about us",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
-  onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
-  organizationName: "cyeehan", // Usually your GitHub org/user name.
-  projectName: "mws-docs", // Usually your repo name.
+  title: 'My Site',
+  tagline: 'The tagline of my site',
+  url: 'https://your-docusaurus-test-site.com',
+  baseUrl: '/',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/favicon.ico',
+  organizationName: 'facebook', // Usually your GitHub org/user name.
+  projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "Modern Workplace Squad",
+      title: 'My Site',
       logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
+        alt: 'My Site Logo',
+        src: 'img/logo.svg',
       },
       items: [
         {
-          to: "docs/",
-          activeBasePath: "docs",
-          label: "Docs",
-          position: "left",
+          to: 'docs/',
+          activeBasePath: 'docs',
+          label: 'Docs',
+          position: 'left',
         },
+        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          to: "blog",
-          label: "Blog",
-          position: "left",
+          href: 'https://github.com/facebook/docusaurus',
+          label: 'GitHub',
+          position: 'right',
         },
-        {
-          href: "https://github.com/cyeehan/mws-docs",
-          label: "GitHub",
-          position: "right",
-        },
-      ], 
-    },
-    plugins: ["@docusaurus/plugin-google-analytics"],
-    themeConfig: {
-      googleAnalytics: {
-        trackingID: process.env.REACT_APP_TRACKING_ID,
-        // Optional fields.
-        anonymizeIP: true, // Should IPs be anonymized?
-      },
+      ],
     },
     footer: {
-      style: "dark",
+      style: 'dark',
       links: [
         {
-          title: "Docs",
+          title: 'Docs',
           items: [
             {
-              label: "Style Guide",
-              to: "docs/",
+              label: 'Style Guide',
+              to: 'docs/',
             },
             {
-              label: "Second Doc",
-              to: "docs/past-events/doc2/",
+              label: 'Second Doc',
+              to: 'docs/doc2/',
             },
           ],
         },
         {
-          title: "Community",
+          title: 'Community',
           items: [
             {
-              label: "Instagram",
-              href: "https://www.instagram.com/microsoft_mws/",
+              label: 'Stack Overflow',
+              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: "Facebook",
-              href: "https://www.facebook.com/microsoft.mws",
+              label: 'Discord',
+              href: 'https://discordapp.com/invite/docusaurus',
             },
             {
-              label: "LinkedIn",
-              href: "https://www.linkedin.com/company/mwsquad/",
+              label: 'Twitter',
+              href: 'https://twitter.com/docusaurus',
             },
           ],
         },
         {
-          title: "More",
+          title: 'More',
           items: [
             {
-              label: "Blog",
-              to: "blog",
+              label: 'Blog',
+              to: 'blog',
             },
             {
-              label: "GitHub",
-              href: "https://github.com/cyeehan/mws-docs",
+              label: 'GitHub',
+              href: 'https://github.com/facebook/docusaurus',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} • Microsoft Modern Workplace Squad • Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
     [
-      "@docusaurus/preset-classic",
+      '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: "https://github.com/facebook/docusaurus/edit/master/website/",
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: "https://github.com/facebook/docusaurus/edit/master/website/blog/",
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+          customCss: require.resolve('./src/css/custom.css'),
         },
       },
     ],
