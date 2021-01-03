@@ -9,12 +9,12 @@ import styles from "./styles.module.css";
 const features = [
   {
     title: "Past Activities, Blog and FAQ",
-    imageUrl: "../../static/img/undraw_online_Organizer.svg",
+    imageUrl: "../img/undraw_online_organizer.svg",
     description: <>We keep track and organize our past Bootcamp, events, Frequently Asked Questions, and more exciting things on the go.</>,
   },
   {
     title: "Cultivate Ideas and Positivity",
-    imageUrl: "../../static/img/undraw_positive_attitude.svg",
+    imageUrl: "../img/undraw_positive_attitude.svg",
     description: (
       <>
         Have something in mind and would like to share with us? email us and we&apos;ll be in contact with you soon.
@@ -23,7 +23,7 @@ const features = [
   },
   {
     title: "Online Learning",
-    imageUrl: "../../static/img/undraw_Online_learning.svg",
+    imageUrl: "../img/undraw_Online_learning.svg",
     description: <>Equip yourself with essential Microsoft Office 365 knowledge to be more efficient and productive on tasks.</>,
   },
 ];
@@ -60,7 +60,7 @@ function Home() {
           </h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
-            <Link className={clsx("button button--outline button--secondary button--lg", styles.getStarted)} to={useBaseUrl("docs/")}>
+            <Link className={clsx("button button--outline button--secondary button--lg", styles.getStarted)} to={useBaseUrl("docs/intro")}>
               Get Started
             </Link>
           </div>

@@ -67,8 +67,20 @@
 }
 
 .button--secondary:hover {
-  color: #ffb900 !important;
-  --ifm-button-border-color: none !important;
+  /* --ifm-font-color-base: var(--ifm-button-border-color) !important; */
+  /* color: #ffb900 !important; */
+  /* --ifm-button-border-color: none; */
+  background-color: none !important;
+}
+
+.button--lg:hover {
+  /* color:#ffb900; */
+  color: #ffb900;
+  background-color: transparent;
+}
+
+.button--outline:hover {
+  /* background-color: none !important; */
 }
 
 /* footer */
