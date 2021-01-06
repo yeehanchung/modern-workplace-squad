@@ -35,7 +35,7 @@ module.exports = {
       ],
     },
     googleAnalytics: {
-      trackingID: process.env.REACT_APP_TRACKING_ID,
+      trackingID: 'G-KE1NKR94K5',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
