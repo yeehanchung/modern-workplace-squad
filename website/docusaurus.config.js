@@ -32,15 +32,12 @@ module.exports = {
           label: "GitHub",
           position: "right",
         },
-      ], 
+      ],
     },
-    plugins: ["@docusaurus/plugin-google-analytics"],
-    themeConfig: {
-      googleAnalytics: {
-        trackingID: process.env.REACT_APP_TRACKING_ID,
-        // Optional fields.
-        anonymizeIP: true, // Should IPs be anonymized?
-      },
+    googleAnalytics: {
+      trackingID: process.env.REACT_APP_TRACKING_ID,
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
     },
     footer: {
       style: "dark",
