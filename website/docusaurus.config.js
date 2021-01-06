@@ -34,6 +34,7 @@ module.exports = {
         },
       ],
     },
+    image: 'img/logo.png',
     googleAnalytics: {
       trackingID: 'G-KE1NKR94K5',
       // Optional fields.
