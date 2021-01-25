@@ -59,6 +59,10 @@
   font-size: 30px;
 }
 
+.hero--primary {
+  background-color: transparent !important;
+}
+
 /* button */
 
 .button--secondary {
