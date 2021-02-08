@@ -74,8 +74,8 @@ module.exports = {
     /**
      * Google Analytics
      */
-    googleAnalytics: {
-      trackingID: "G-KFSF9GDSNV",
+    gtag: {
+      trackingID: "G-45057ZJV37",
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
