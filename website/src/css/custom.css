@@ -5,13 +5,14 @@
  * work well for content-centric websites.
  */
 
- /**
+/**
   * Microsoft logo colors palette
   * Red: #f25022
   * Green: #7fba00
   * Blue: #00a4ef
   * Yellow: #ffb900
   */
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #00a4ef;
@@ -94,7 +95,8 @@
   color: black;
 }
 
-.footer__title, .footer__link-item {
+.footer__title,
+.footer__link-item {
   color: black;
 }
 

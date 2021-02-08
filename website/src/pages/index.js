@@ -1,20 +1,23 @@
-import React from "react";
-import clsx from "clsx";
-import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import Layout from "@theme/Layout";
+import clsx from "clsx";
+import React from "react";
 import styles from "./styles.module.css";
 
 const features = [
   {
-    title: "Past Activities, Blog and FAQ",
-    imageUrl: "../img/undraw_online_organizer.svg",
-    description: <>We keep track and organize our past Bootcamp, events, Frequently Asked Questions, and more exciting things on the go.</>,
+    title: "Activities, Blog, FAQ and more",
+    imageUrl: "../../img/svg/undraw_online_organizer.svg",
+    description: 
+      <>
+        We keep track and organize our past Bootcamp, events, Frequently Asked Questions, and more exciting things on the go.
+      </>,
   },
   {
     title: "Cultivate Ideas and Positivity",
-    imageUrl: "../img/undraw_positive_attitude.svg",
+    imageUrl: "../../img/svg/undraw_positive_attitude.svg",
     description: (
       <>
         Have something in mind and would like to share with us? email us and we&apos;ll be in contact with you soon.
@@ -23,8 +26,11 @@ const features = [
   },
   {
     title: "Online Learning",
-    imageUrl: "../img/undraw_Online_learning.svg",
-    description: <>Equip yourself with essential Microsoft Office 365 knowledge to be more efficient and productive on tasks.</>,
+    imageUrl: "../../img/svg/undraw_online_learning.svg",
+    description: 
+      <>
+        Equip yourself with essential Microsoft Office 365 knowledge to be more efficient and productive on tasks.
+      </>,
   },
 ];
 

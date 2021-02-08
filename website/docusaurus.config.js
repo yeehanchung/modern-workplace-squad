@@ -1,63 +1,105 @@
 module.exports = {
   title: "Modern Workplace Squad",
   tagline: "Learn more about us",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://modern-workplace-squad.netlify.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "cyeehan", // Usually your GitHub org/user name.
-  projectName: "mws-docs", // Usually your repo name.
+  projectName: "modern-workplace-squad", // Usually your repo name.
   themeConfig: {
+    /**
+     * Misc
+     */
+    image: "img/og_image.png",
+    hideableSidebar: true,
+    /**
+     * Navigation bar
+     */
     navbar: {
       title: "Modern Workplace Squad",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/svg/logo.svg",
       },
       items: [
+        /**
+         * Left side
+         */
         {
-          to: "docs/",
-          activeBasePath: "docs",
+          /* Special navbar item type will render the link to the doc of the provided `docId`. It will get the class navbar__link--active as long as you browse a doc of the same sidebar. (from Docusaurus) */
+          type: "doc",
+          docId: "intro",
+          activeSidebarClassName: "navbar__link--active",
           label: "Docs",
           position: "left",
         },
         {
-          to: "blog",
+          to: "/blog/",
+          activeBasePath: "/blog/",
           label: "Blog",
           position: "left",
         },
         {
-          href: "https://github.com/cyeehan/mws-docs",
+          to: "/docs/tips-and-tricks/introduction",
+          activeBaseRegex: "/tips-and-tricks/",
+          docId: "tipsandtricks",
+          label: "Tips and Tricks",
+          position: "left",
+        },
+        /**
+         * Right side
+         */
+        {
+          to: "/quarter-leaders",
+          docId: "leaders",
+          label: "Leaders",
+          position: "right",
+        },
+        {
+          to: "/squad-members",
+          docId: "squad-members",
+          label: "Squad",
+          position: "right",
+        },
+        /* End of Markdown files */
+        {
+          href: "https://github.com/cyeehan/mws-site",
           label: "GitHub",
           position: "right",
         },
-      ], 
+      ],
     },
-    plugins: ["@docusaurus/plugin-google-analytics"],
-    themeConfig: {
-      googleAnalytics: {
-        trackingID: process.env.REACT_APP_TRACKING_ID,
-        // Optional fields.
-        anonymizeIP: true, // Should IPs be anonymized?
-      },
+    /**
+     * Google Analytics
+     */
+    googleAnalytics: {
+      trackingID: "G-KFSF9GDSNV",
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
     },
+    /**
+     * Footer
+     */
     footer: {
       style: "dark",
       links: [
+        // Left column
         {
-          title: "Docs",
+          title: "About Us",
           items: [
             {
-              label: "Style Guide",
-              to: "docs/",
+              label: "Introduction",
+              to: "docs/intro",
             },
             {
-              label: "Second Doc",
-              to: "docs/past-events/doc2/",
+              label: "List of members",
+              to: "squad-members",
             },
           ],
         },
+        // Middle column
         {
           title: "Community",
           items: [
@@ -75,6 +117,7 @@ module.exports = {
             },
           ],
         },
+        // Right column
         {
           title: "More",
           items: [
@@ -84,7 +127,7 @@ module.exports = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/cyeehan/mws-docs",
+              href: "https://github.com/cyeehan/modern-workplace-squad",
             },
           ],
         },
@@ -92,19 +135,18 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} • Microsoft Modern Workplace Squad • Built with Docusaurus.`,
     },
   },
+  // Presets
   presets: [
     [
       "@docusaurus/preset-classic",
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          editUrl: "https://github.com/facebook/docusaurus/edit/master/website/",
+          editUrl: "https://github.com/cyeehan/modern-workplace-squad",
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          editUrl: "https://github.com/facebook/docusaurus/edit/master/website/blog/",
+          editUrl: "https://github.com/cyeehan/modern-workplace-squad/tree/master/website/blog",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
