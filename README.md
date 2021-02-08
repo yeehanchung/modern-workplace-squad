@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="modern-workplace-squad.netlify.app"><img alt="Modern Workplace Squad" src="./website/build/img/svg/logo.svg"></a>
+  <a href="modern-workplace-squad.netlify.app"><img alt="Modern Workplace Squad" src="../mws-site/website/static/img/svg/logo.svg"></a>
 </h1>
 
 <p align="center">
