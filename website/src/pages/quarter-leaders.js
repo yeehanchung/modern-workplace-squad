@@ -28,7 +28,7 @@ function QuarterLeaders() {
   });
 
   return (
-    <Layout title="Hello">
+    <Layout title="Quarter Leaders" description="Quarter Leaders of Modern Workplace Squad throughout the journey.">
       <div className={styles.container}>
         <h1>Quarter Leaders</h1>
         {listPerson}

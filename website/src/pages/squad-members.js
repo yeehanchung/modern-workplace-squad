@@ -22,7 +22,7 @@ function SquadMembers() {
   });
 
   return (
-    <Layout title="Hello">
+    <Layout title="Modern Workplace Squad" description="All members of Modern Workplace Squad.">
       <div className={styles.container}>
         <h1>Listed in A-Z</h1>
         <br />
