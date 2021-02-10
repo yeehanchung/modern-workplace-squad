@@ -13,7 +13,7 @@
 
 ## Semantic Commit Messages
 
-> A clear and concise style of commit message would make a better programmer.
+> A clear and concise style of commit message would make you a better programmer.
 
 ### Example
 
