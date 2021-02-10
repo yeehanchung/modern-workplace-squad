@@ -9,6 +9,9 @@ export const squadMembers = [
     linkedin: "https://www.linkedin.com/in/awkarkei/",
     image: "https://media-exp1.licdn.com/dms/image/C5103AQHvmcK2cgEokQ/profile-displayphoto-shrink_400_400/0/1574666393481?e=1617840000&v=beta&t=SL4JFqe2MQ2eWvi6UzQ0N6F9XSXnNbEZjg2cUoCXMzU",
   },
+    name: "Ariful Islam",
+    linkedin: "https://www.linkedin.com/in/arif-ai/"
+    image: "https://media-exp1.licdn.com/dms/image/C5603AQGQmsJDRO73xg/profile-displayphoto-shrink_800_800/0/1570172585178?e=1618444800&v=beta&t=yrVcZ9CDA3rzACCMWPcQD_3HfRQTV83Agglr186Hqg4"
   {
     name: "Bee Yean Lim",
     linkedin: "https://www.linkedin.com/in/lim-bee-yean-002912151/",
