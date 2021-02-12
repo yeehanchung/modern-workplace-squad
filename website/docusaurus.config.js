@@ -142,11 +142,17 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/cyeehan/modern-workplace-squad",
+          /**
+           * related to custom_edit_url for docs directory
+           */
+          editUrl: "https://github.com/cyeehan/modern-workplace-squad/tree/master/website",
         },
         blog: {
           showReadingTime: true,
-          editUrl: "https://github.com/cyeehan/modern-workplace-squad/tree/master/website/blog",
+           /**
+           * related to custom_edit_url for blog directory
+           */
+          editUrl: "https://github.com/cyeehan/modern-workplace-squad/tree/master/website",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
