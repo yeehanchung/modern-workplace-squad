@@ -183,7 +183,7 @@ export const squadMembers = [
   {
     name: "Sze Yin Cheah (Evelyn)",
     linkedin: "https://www.linkedin.com/in/szeyincheahevelyn/",
-    image: "img/squad-profile-images/sze-yin-cheah-evelyn.jpg",
+    image: "/img/squad-profile-images/sze-yin-cheah-evelyn.jpg",
   },
   {
     name: "Tuan Sihan",
