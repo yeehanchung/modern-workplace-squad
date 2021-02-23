@@ -1,6 +1,6 @@
 import Layout from "@theme/Layout";
 import React, { useState } from "react";
-import { squadMembers } from "../../contents/data/squad-members";
+import { squadMembers } from "../../contents/data/squad-member";
 import styles from "./squad.module.css";
 
 function SquadMembers() {
