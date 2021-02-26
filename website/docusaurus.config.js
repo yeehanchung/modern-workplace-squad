@@ -66,8 +66,9 @@ module.exports = {
         /* End of Markdown files */
         {
           href: "https://github.com/cyeehan/mws-site",
-          label: "GitHub",
           position: "right",
+          className: 'header-github-link',
+          'aria-label': 'GitHub repository',
         },
       ],
     },
