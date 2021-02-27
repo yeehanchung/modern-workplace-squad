@@ -12,8 +12,10 @@ module.exports = {
      */
     {
       type: "category",
-      label: "Installations",
-      items: ["installations/install-1"],
+      label: "Installation",
+      items: [
+        "installation/install-microsoft-office-365",
+      ],
     },
     /**
      * Excitement Days section
