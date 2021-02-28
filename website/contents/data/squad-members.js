@@ -58,13 +58,6 @@ export const squadMembers = [
     linkedin: "https://www.linkedin.com/in/chong-fui-may-421631204",
     image: "/img/squad-profile-images/fui-may-chong.png",
   },
-  /*
-  {
-    name: "Fu Shin Hui",
-    linkedin: "----------------------------",
-    image: "-------------------------",
-  },  
-  */
   {
     name: "Gladys Loh",
     linkedin: "https://www.linkedin.com/in/gladysloh/",
@@ -91,7 +84,7 @@ export const squadMembers = [
     image: "/img/squad-profile-images/izzati-syakirah.png",
   },
   {
-    name: "Jenn Fu",
+    name: "Jenn Shin Hui Fu",
     linkedin: "https://www.linkedin.com/in/jenn-fu-75674719b/",
     image: "/img/squad-profile-images/jenn-fu.png",
   },
@@ -126,6 +119,11 @@ export const squadMembers = [
     image: "/img/squad-profile-images/jye-yie-tee.jpg",
   },
   {
+    name: "Kah Men Lee",
+    linkedin: "https://www.linkedin.com/in/leekahmen/",
+    image: "/img/squad-profile-images/kah-men-lee.jpeg",
+  },
+  {
     name: "Kai Lun Ho",
     linkedin: "https://www.linkedin.com/in/hokailun/",
     image: "/img/squad-profile-images/kai-lun-ho.jpg",
@@ -134,6 +132,11 @@ export const squadMembers = [
     name: "Kashmiethaa V. Chandran",
     linkedin: "https://www.linkedin.com/in/kashmiethaa-v-chandran-319970182/",
     image: "/img/squad-profile-images/kashmiethaa-v-chandran.jpg",
+  },
+  {
+    name: "Kelvin Lee",
+    linkedin: "https://www.linkedin.com/in/kelvin-lee-ba9159183/",
+    image: "/img/squad-profile-images/kelvin-lee.jpg",
   },
   {
     name: "Kreepa Shree",
@@ -150,29 +153,15 @@ export const squadMembers = [
     linkedin: "https://www.linkedin.com/in/krishna-priya-udayakumar-02bb76204",
     image: "/img/squad-profile-images/krishna-priya-udayakumar.png",
   },
-  /*
-  {
-    name: "Lee Kah Men",
-    linkedin: "-----------------------------------",
-    image: "----------------------------",
-  },
-  */
-  /*
-  {
-    name: "Lee Kel Vin",
-    linkedin: "-----------------------------------",
-    image: "----------------------------",
-  },
-  */
-  {
-    name: "Li Ting Lee",
-    linkedin: "https://www.linkedin.com/in/tessleeliting/",
-    image: "/img/squad-profile-images/li-ting-lee.png",
-  },
   {
     name: "Lisa Pui Sze Teng",
     linkedin: "https://www.linkedin.com/in/lisa-pui-sze-teng-728117173/",
     image: "/img/squad-profile-images/lisa-pui-sze-teng.jpg",
+  },
+  {
+    name: "Li Ting Lee",
+    linkedin: "https://www.linkedin.com/in/tessleeliting/",
+    image: "/img/squad-profile-images/li-ting-lee.png",
   },
   {
     name: "Louis Ezra Endro",
@@ -190,6 +179,11 @@ export const squadMembers = [
     image: "/img/squad-profile-images/michelle-machingaidze.jpg",
   },
   {
+    name: "Mohammad Kazim",
+    linkedin: "https://www.linkedin.com",
+    image: "/img/squad-profile-images/mohammad-kazim.jpg",
+  },
+  {
     name: "Mun Hong Teoh",
     linkedin: "https://www.linkedin.com/in/teoh-mun-hong-442190bb/",
     image: "/img/squad-profile-images/mun-hong-teoh.jpg",
@@ -198,6 +192,16 @@ export const squadMembers = [
     name: "Muskan Karmani",
     linkedin: "https://www.linkedin.com/in/muskankarmani/",
     image: "/img/squad-profile-images/muskan-karmani.jpg",
+  },
+  {
+    name: "Natalia Bong",
+    linkedin: "https://www.linkedin.com/in/nataliabong",
+    image: "/img/squad-profile-images/natalia-bong.jpg",
+  },
+  {
+    name: "Natasha Bong",
+    linkedin: "https://www.linkedin.com/in/natashabong/",
+    image: "/img/squad-profile-images/natasha-bong.jpg",
   },
   {
     name: "Nazhif Ridzuan",
@@ -225,9 +229,24 @@ export const squadMembers = [
     image: "/img/squad-profile-images/rafia-ferdous.jpg",
   },
   {
+    name: "Ruhdra Shree",
+    linkedin: "https://www.linkedin.com/in/ruhdra-shree-paidathalli-5113b3b2/",
+    image: "/img/squad-profile-images/ruhdra-shree.jpeg",
+  },
+  {
     name: "Shannia Henry",
-    linkedin: "https://www.linkedin.com/in/shannia-henry-0b1440188/",
+    linkedin: "https://www.linkedin.com/in/teo-shern-ling-a9775912a/",
     image: "/img/squad-profile-images/shannia-henry.jpg",
+  },
+  {
+    name: "Sheanny Shin",
+    linkedin: "https://www.linkedin.com/in/sheanny-shin-377909199/",
+    image: "/img/squad-profile-images/sheanny-shin.jpeg",
+  },
+  {
+    name: "Shern Ling Teo",
+    linkedin: "https://www.linkedin.com/in/shannia-henry-0b1440188/",
+    image: "/img/squad-profile-images/shern-ling-teo.jpeg",
   },
   {
     name: "Sher Ree Koh",
@@ -235,11 +254,6 @@ export const squadMembers = [
     image: "/img/squad-profile-images/sher-ree-koh.png",
   },
   /*
-  {
-    name: "Shin Gui Qian",
-    linkedin: "-----------------------------------",
-    image: "----------------------------",
-  },
   {
     name: "Shu Qing Tok",
     linkedin: "https://www.linkedin.com/in/shu-qing-tok-4b2585174/",
@@ -256,7 +270,6 @@ export const squadMembers = [
     linkedin: "https://www.linkedin.com/in/szeyincheahevelyn/",
     image: "/img/squad-profile-images/sze-yin-cheah-evelyn.jpg",
   },
-
   {
     name: "Tuan Sihan",
     linkedin: "https://www.linkedin.com/in/tuansihan/",
@@ -266,6 +279,11 @@ export const squadMembers = [
     name: "Veishnawi A/P Nehru",
     linkedin: "https://www.linkedin.com/in/taylor-vn-19vn12/",
     image: "/img/squad-profile-images/veishnawi-ap-nehru.jpg",
+  },
+  {
+    name: "Waseem Bashairu",
+    linkedin: "https://www.linkedin.com/in/bashairu-waseem-81b407174/",
+    image: "/img/squad-profile-images/waseem-bashairu.jpeg",
   },
   {
     name: "Weng Onn Yeap",
