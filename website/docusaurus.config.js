@@ -95,7 +95,7 @@ module.exports = {
               to: "docs/intro",
             },
             {
-              label: "List of members",
+              label: "Squad",
               to: "squad-members",
             },
           ],
