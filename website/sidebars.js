@@ -33,7 +33,7 @@ module.exports = {
       type: "category",
       label: "Excitement Days",
       items: [
-        "excitement-days/doc1", 
+        "excitement-days/doc1",
       ],
     },
     /**
@@ -49,14 +49,14 @@ module.exports = {
 
   /**
    * FYI: * It is an example of multiple sidebars
-   * 
+   *
    * Tips & Tricks section
    */
   tipsandtricks: [
     /**
      * O365 apps include:
-     * Teams, PowerPoint, Word, 
-     * Excel, Outlook, OneNote, 
+     * Teams, PowerPoint, Word,
+     * Excel, Outlook, OneNote,
      * OneDrive, Sway, Power BI
      */
     {
@@ -68,7 +68,7 @@ module.exports = {
       label: "Teams",
       items: [
         "tips-and-tricks/teams/teams-1"
-      ],
+    ],
     },
     {
       type: "category",
@@ -82,21 +82,21 @@ module.exports = {
       label: "Word",
       items: [
         "tips-and-tricks/word/word-1",
-      ],
+    ],
     },
     {
       type: "category",
       label: "Excel",
       items: [
-        "tips-and-tricks/excel/excel-1",
-      ],
+        "tips-and-tricks/excel/2021-03-01-remove-n-characters-from-field/remove-n-characters-from-field",
+    ],
     },
     {
       type: "category",
       label: "Outlook",
       items: [
         "tips-and-tricks/outlook/outlook-1",
-      ],
+    ],
     },
     {
       type: "category",
@@ -124,8 +124,18 @@ module.exports = {
       label: "Power BI",
       items: [
         "tips-and-tricks/power-bi/power-bi-1",
-      ],
+    ],
     },
     // End
+  ],
+
+  /**
+   * Newsletter
+   */
+  newsletters: [
+    {
+      type: "doc",
+      id: "newsletters/newsletter-january-to-february-2021",
+    },
   ],
 };
