@@ -48,6 +48,13 @@ module.exports = {
           label: "Tips and Tricks",
           position: "left",
         },
+        {
+          to: "/docs/newsletters/newsletter-january-to-february-2021",
+          docId: "newsletters",
+          activeBaseRegex: "/newsletters/",
+          label: "Newsletters",
+          position: "left",
+        },
         /**
          * Right side
          */
