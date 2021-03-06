@@ -3,11 +3,13 @@ id: remove-n-characters-from-field
 title: Remove n characters from field  
 ---
 
-<!-- truncate -->
+:::tip
+
+May use UPPERCASE or lowercase for the `Excel function` as shown below.
+
+:::
 
 ### Using `RIGHT()`
-
-May use UPPERCASE or lowercase.
 
 ```shell
 # UPPERCASE
@@ -34,12 +36,12 @@ right(b1, len(b1) - 10)
 
 As shown below, `len(b1)` equals **19 characters**.
 
-- `VM14795:1 ` (including the whitespace) is **10 characters**.
+- `VM14795:1 ` including the whitespace is **10 characters**.
 - `Pyongyang` is **9 characters**.
 
 ![](step-1.png)
 
-By using the formula, `len(b1) - 10`. It cuts out the 10 characters including the whitespace before `Pyongyang` while reserving the 9 characters from the left side.
+By using the formula, `len(b1) - 10`. It extracts the 9 characters from the right side or we could interpret it by saying that it cuts out the 10 characters including the whitespace before `Pyongyang`.
 
 ![](step-1.2.png)
 
