@@ -13,9 +13,8 @@ module.exports = {
     {
       type: "category",
       label: "Installation",
-      items: [
-        "installation/install-microsoft-office-365",
-      ],
+      items: ["installation/install-microsoft-office-365"],
+      collapsed: false,
     },
     /**
      * Excitement Days section
@@ -23,8 +22,8 @@ module.exports = {
     {
       type: "category",
       label: "Training & Recruitment",
-      items: [
-        "training-and-recruitment-sessions/2021-01-23-24-27-session"],
+      items: ["training-and-recruitment-sessions/2021-01-23-24-27-session"],
+      collapsed: false,
     },
     /**
      * Excitement Days section
@@ -32,9 +31,7 @@ module.exports = {
     {
       type: "category",
       label: "Excitement Days",
-      items: [
-        "excitement-days/doc1",
-      ],
+      items: ["excitement-days/doc1"],
     },
     /**
      * FAQ section
@@ -61,70 +58,53 @@ module.exports = {
      */
     {
       type: "doc",
-      id: "tips-and-tricks/introduction"
+      id: "tips-and-tricks/introduction",
     },
     {
       type: "category",
       label: "Teams",
-      items: [
-        "tips-and-tricks/teams/teams-1"
-    ],
+      items: ["tips-and-tricks/teams/teams-1"],
     },
     {
       type: "category",
       label: "PowerPoint",
-      items: [
-        "tips-and-tricks/powerpoint/powerpoint-1",
-      ],
+      items: ["tips-and-tricks/powerpoint/powerpoint-1"],
     },
     {
       type: "category",
       label: "Word",
-      items: [
-        "tips-and-tricks/word/word-1",
-    ],
+      items: ["tips-and-tricks/word/word-1"],
     },
     {
       type: "category",
       label: "Excel",
-      items: [
-        "tips-and-tricks/excel/2021-03-01-remove-n-characters-from-field/remove-n-characters-from-field",
-    ],
+      items: ["tips-and-tricks/excel/2021-03-01-remove-n-characters-from-field/remove-n-characters-from-field"],
+      collapsed: false,
     },
     {
       type: "category",
       label: "Outlook",
-      items: [
-        "tips-and-tricks/outlook/outlook-1",
-    ],
+      items: ["tips-and-tricks/outlook/outlook-1"],
     },
     {
       type: "category",
       label: "OneNote",
-      items: [
-        "tips-and-tricks/onenote/onenote-1",
-      ],
+      items: ["tips-and-tricks/onenote/onenote-1"],
     },
     {
       type: "category",
       label: "OneDrive",
-      items: [
-        "tips-and-tricks/onedrive/onedrive-1",
-      ],
+      items: ["tips-and-tricks/onedrive/onedrive-1"],
     },
     {
       type: "category",
       label: "Sway",
-      items: [
-        "tips-and-tricks/sway/sway-1",
-      ],
+      items: ["tips-and-tricks/sway/sway-1"],
     },
     {
       type: "category",
       label: "Power BI",
-      items: [
-        "tips-and-tricks/power-bi/power-bi-1",
-    ],
+      items: ["tips-and-tricks/power-bi/power-bi-1"],
     },
     // End
   ],
