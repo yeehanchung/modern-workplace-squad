@@ -73,7 +73,8 @@ module.exports = {
     {
       type: "category",
       label: "Word",
-      items: ["tips-and-tricks/word/word-1"],
+      items: ["tips-and-tricks/word/2021-03-26-how-to-change-default-font/index"],
+      collapsed: false
     },
     {
       type: "category",
