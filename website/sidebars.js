@@ -119,7 +119,11 @@ module.exports = {
   newsletters: [
     {
       type: "doc",
-      id: "newsletters/newsletter-january-to-february-2021",
+      id: "newsletters/march-to-april-2021",
+    },
+    {
+      type: "doc",
+      id: "newsletters/january-to-february-2021",
     },
   ],
 };

@@ -49,7 +49,7 @@ module.exports = {
           position: "left",
         },
         {
-          to: "/docs/newsletters/newsletter-january-to-february-2021",
+          to: "/docs/newsletters/march-to-april-2021",
           docId: "newsletters",
           activeBaseRegex: "/newsletters/",
           label: "Newsletters",
