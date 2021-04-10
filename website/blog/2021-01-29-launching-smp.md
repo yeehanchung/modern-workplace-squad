@@ -4,7 +4,7 @@ title: Launching Social Media Programme
 author: Zhen Hao Lee
 author_title: Ambassador @ Microsoft Malaysia
 author_url: https://www.linkedin.com/in/lee-zhen-hao-a28a96155/
-author_image_url: https://media-exp1.licdn.com/dms/image/C5603AQEA5T3pKE6mFw/profile-displayphoto-shrink_400_400/0/1599916367221?e=1617235200&v=beta&t=s82wKFdMDqmEl0wD_tf5TiN5TWetevV3ZhXltG5uy4Y
+author_image_url: /img/squad-profile-images/zhen-hao-lee.jpg
 tags: [social media programme]
 ---
 
@@ -23,5 +23,3 @@ We initiated the launch, thank you all for joining us on 29th January 2021 at 2p
 <br/>
 
 ![Group Photo 2](../static/assets/blog/2021-01-29-smp-launching/group-photo-2.png)
-
-
