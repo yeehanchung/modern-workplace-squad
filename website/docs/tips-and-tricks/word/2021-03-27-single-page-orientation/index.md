@@ -1,0 +1,50 @@
+---
+id: index
+title: Single Page Orientation 🤯
+---
+
+import { AuthorCard } from '@site/src/components/author-card.js';
+
+<AuthorCard name="Krishna Priya Udayakumar" image="/img/squad-profile-images/krishna-priya-udayakumar.png" role="Squad Member @ Microsoft MWS" linkedinUrl="https://www.linkedin.com/in/krishna-priya-udayakumar-02bb76204" />
+
+Wished to only change one page as landscape mode or vise versa 🤯? Here is the step-by-step guide to do so! 🤩
+
+### Step 1
+
+Highlight the sentence on a page that you want to change into landscape mode.
+
+![step-1.png](../2021-03-27-single-page-orientation/step-1.png)
+
+### Step 2
+
+Go to Layout & Select Page Setup Dialog Box
+
+![step-2.png](../2021-03-27-single-page-orientation/step-2.png)
+
+### Step 3
+
+1. Select "**Landscape**", and do not exit yet.
+
+![step-3.png](../2021-03-27-single-page-orientation/step-3.png)
+
+2. Go to "**Apply to**"
+
+
+![step-4.png](../2021-03-27-single-page-orientation/step-4.png)
+
+3. Choose "**Selected Text**"
+4. Click on "**OK**"
+
+### Final result 🥳
+
+And we are done!
+
+![final-result.png](../2021-03-27-single-page-orientation/final-result.png)
+
+### The End 🎊
+
+## Stay connected with us
+
+[Instagram](https://www.instagram.com/microsoft_mws/) | 
+[Facebook](https://www.facebook.com/microsoft.mws) | 
+[LinkedIn](https://www.linkedin.com/company/mwsquad/)

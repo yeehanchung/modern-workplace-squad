@@ -75,9 +75,12 @@ module.exports = {
       label: "Word",
       items: [
         "tips-and-tricks/word/2021-03-26-how-to-change-default-font/index",
-        "tips-and-tricks/word/2021-03-26-add-citations/index"
+        "tips-and-tricks/word/2021-03-26-add-citations/index",
+        "tips-and-tricks/word/2021-03-31-write-text-anywhere-easily/index",
+        "tips-and-tricks/word/2021-03-27-single-page-orientation/index",
+        "tips-and-tricks/word/2021-03-29-how-to-make-your-resume-shines/index",
       ],
-      collapsed: false
+      collapsed: false,
     },
     {
       type: "category",
