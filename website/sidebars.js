@@ -117,9 +117,13 @@ module.exports = {
   ],
 
   /**
-   * Newsletter
+   * Newsletters
    */
   newsletters: [
+    {
+      type: "doc",
+      id: "newsletters/april-to-may-2021",
+    },
     {
       type: "doc",
       id: "newsletters/march-to-april-2021",
