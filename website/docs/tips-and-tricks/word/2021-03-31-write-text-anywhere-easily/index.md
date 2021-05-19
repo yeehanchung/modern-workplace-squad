@@ -5,7 +5,7 @@ title: How to write text anywhere we want? 😍
 
 import { AuthorCard } from '@site/src/components/author-card.js';
 
-<AuthorCard name="Ain Batrisyia" image="/img/squad-profile-images/ain-batrisyia.jpeg" role="Squad Member @ Microsoft MWS" linkedinUrl="https://www.linkedin.com/in/ainbatrisyiashaharuddin/" />
+<AuthorCard name="Ain Batrisyia" image="/img/squad-profile-images/ain-batrisyia.jpeg" role="Microsoft MWS Ambassador" linkedinUrl="https://www.linkedin.com/in/ainbatrisyiashaharuddin/" />
 
 Frustrated with using spacebars for special alignments? No more wasting time on spacebar/tab/textbox!
 

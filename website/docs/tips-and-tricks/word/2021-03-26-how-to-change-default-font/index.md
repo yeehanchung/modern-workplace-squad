@@ -5,7 +5,7 @@ title: How to change default font
 
 import { AuthorCard } from '@site/src/components/author-card.js';
 
-<AuthorCard name="Sher Ree Koh" image="/img/squad-profile-images/sher-ree-koh.png" role="Squad Member @ Microsoft MWS" linkedinUrl="https://www.linkedin.com/in/koh-sher-ree-b8a62a204/" />
+<AuthorCard name="Sher Ree Koh" image="/img/squad-profile-images/sher-ree-koh.png" role="Microsoft MWS Ambassador" linkedinUrl="https://www.linkedin.com/in/koh-sher-ree-b8a62a204/" />
 
 ### Step 1
 
