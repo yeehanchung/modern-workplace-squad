@@ -5,7 +5,7 @@ title: Single Page Orientation 🤯
 
 import { AuthorCard } from '@site/src/components/author-card.js';
 
-<AuthorCard name="Krishna Priya Udayakumar" image="/img/squad-profile-images/krishna-priya-udayakumar.png" role="Squad Member @ Microsoft MWS" linkedinUrl="https://www.linkedin.com/in/krishna-priya-udayakumar-02bb76204" />
+<AuthorCard name="Krishna Priya Udayakumar" image="/img/squad-profile-images/krishna-priya-udayakumar.png" role="Microsoft MWS Ambassador" linkedinUrl="https://www.linkedin.com/in/krishna-priya-udayakumar-02bb76204" />
 
 Wished to only change one page as landscape mode or vise versa 🤯? Here is the step-by-step guide to do so! 🤩
 
