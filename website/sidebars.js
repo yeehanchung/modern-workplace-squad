@@ -87,7 +87,8 @@ module.exports = {
       label: "Excel",
       items: [
         "tips-and-tricks/excel/2021-03-01-remove-n-characters-from-field/remove-n-characters-from-field",
-        "tips-and-tricks/excel/2021-04-21-npv-function/npv-function"
+        "tips-and-tricks/excel/2021-04-21-npv-function/npv-function",
+        "tips-and-tricks/excel/2021-04-21-irr-function/irr-function"
       ],
       collapsed: false,
     },
