@@ -89,7 +89,8 @@ module.exports = {
         "tips-and-tricks/excel/2021-03-01-remove-n-characters-from-field/remove-n-characters-from-field",
         "tips-and-tricks/excel/2021-04-21-npv-function/npv-function",
         "tips-and-tricks/excel/2021-04-21-irr-function/irr-function",
-        "tips-and-tricks/excel/2021-04-18-create-pivot-charts/create-pivot-charts"
+        "tips-and-tricks/excel/2021-04-18-create-pivot-charts/create-pivot-charts",
+        "tips-and-tricks/excel/2021-04-27-create-pivot-tables/create-pivot-tables"
       ],
       collapsed: false,
     },
