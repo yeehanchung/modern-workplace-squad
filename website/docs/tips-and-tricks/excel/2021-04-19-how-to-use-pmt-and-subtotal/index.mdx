@@ -1,0 +1,56 @@
+---
+id: how-to-use-pmt-and-subtotal
+title: PMT and subtotal function
+---
+
+import { AuthorCard } from '@site/src/components/author-card.js';
+
+<AuthorCard name="Zhen Hao Lee" image="/img/squad-profile-images/zhen-hao-lee.jpg" role="Microsoft MWS Ambassador" linkedinUrl="https://www.linkedin.com/in/lee-zhen-hao-a28a96155/" />
+
+Tired of manual calculation for payment? 
+
+Why not use the **payment function (PMT)** by Excel?
+
+Follow us in easy steps! ✅
+
+### Step 1
+
+Type the function: `=PMT`
+
+![step-1](./step-1.png)
+
+### Step 2
+
+Full function: `=PMT(RATE, NPER, PV, [FV], [TYPE])`
+
+Function breakdown:
+
+1. **RATE** must divide by 12 as we want monthly payment.
+2. **NPER** is **number of years**, must be times with 12 since it is monthly payment.
+3. **PV** is **present value** which is the loan amount.
+
+![step-2](./step-2.png)
+
+### Step 3
+
+You got it! You need to pay RM 489.15 monthly.
+
+![step-3](./step-3.png)
+
+### Step 4
+
+Does not like negative sign or bracket? 
+
+**Put negative sign in front of PMT**: `=-PMT()`
+
+![step-4](./step-4.png)
+
+### Voila! 🎊
+
+![final-result](./final-result.png)
+
+## Stay connected with us
+
+[Instagram](https://www.instagram.com/microsoft_mws/) | 
+[Facebook](https://www.facebook.com/microsoft.mws) | 
+[LinkedIn](https://www.linkedin.com/company/mwsquad/)
