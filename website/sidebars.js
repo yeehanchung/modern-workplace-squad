@@ -91,7 +91,7 @@ module.exports = {
         "tips-and-tricks/excel/2021-04-21-irr-function/irr-function",
         "tips-and-tricks/excel/2021-04-18-create-pivot-charts/create-pivot-charts",
         "tips-and-tricks/excel/2021-04-27-create-pivot-tables/create-pivot-tables",
-        "tips-and-tricks/excel/2021-04-19-how-to-use-pmt-and-subtotal/how-to-use-pmt-and-subtotal"
+        "tips-and-tricks/excel/2021-04-19-how-to-use-pmt-and-subtotal/how-to-use-pmt-and-subtotal",
       ],
       collapsed: false,
     },
@@ -127,6 +127,10 @@ module.exports = {
    * Newsletters
    */
   newsletters: [
+    {
+      type: "doc",
+      id: "newsletters/may-to-june-2021",
+    },
     {
       type: "doc",
       id: "newsletters/april-to-may-2021",
