@@ -92,6 +92,7 @@ module.exports = {
         "tips-and-tricks/excel/2021-04-18-create-pivot-charts/create-pivot-charts",
         "tips-and-tricks/excel/2021-04-27-create-pivot-tables/create-pivot-tables",
         "tips-and-tricks/excel/2021-04-19-how-to-use-pmt-and-subtotal/how-to-use-pmt-and-subtotal",
+        "tips-and-tricks/excel/2021-04-19-vertical-lookup/vertical-lookup",
       ],
       collapsed: false,
     },
