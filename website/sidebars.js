@@ -31,7 +31,7 @@ module.exports = {
     {
       type: "category",
       label: "Excitement Days",
-      items: ["excitement-days/doc1"],
+      items: [],
     },
     /**
      * FAQ section
