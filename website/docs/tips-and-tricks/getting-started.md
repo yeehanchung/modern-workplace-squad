@@ -1,6 +1,6 @@
 ---
 id: introduction
-title: Introduction
+title: Introduction (Tips & Tricks)
 ---
 
 Hello there! Have you ever wondered *how to fully utilize your Microsoft applications*? Well, you have come to the right place! Welcome to **Microsoft Office 365 tips and tricks**!
