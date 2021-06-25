@@ -1,6 +1,18 @@
 ---
 id: introduction
-title: Introduction
+title: Introduction (Tips & Tricks)
 ---
 
-## O365 Tips and Tricks
+Hello there! Have you ever wondered *how to fully utilize your Microsoft applications*? Well, you have come to the right place! Welcome to **Microsoft Office 365 tips and tricks**!
+
+These tips and tricks are all done by our Ambassadors of Microsoft Modern Workplace Squad. Here, we have Microsoft **Teams**, **Words**, **PowerPoint**, **Excel**, **Sway**, **Outlook**, **OneDrive**, **OneNote**, and **Power BI**. 
+
+We will provide useful tips & tricks that are considered most applicable for not only students, but people who fond of using Microsoft products. Hopefully, these tips and tricks are able to help you to smoothen your experience.
+
+If you have any questions or any requests, do feel free to ask us on our social media.
+
+[Instagram](https://www.instagram.com/microsoft_mws/) |
+[Facebook](https://www.facebook.com/microsoft.mws) |
+[LinkedIn](https://www.linkedin.com/company/mwsquad/)
+
+**P.S.** Bookmark this page and do check in regularly for any updates 😉
