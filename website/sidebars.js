@@ -94,6 +94,7 @@ module.exports = {
         "tips-and-tricks/excel/2021-04-19-how-to-use-pmt-and-subtotal/how-to-use-pmt-and-subtotal",
         "tips-and-tricks/excel/2021-04-19-vertical-lookup/vertical-lookup",
         "tips-and-tricks/excel/2021-04-19-xlookup-function/xlookup-function",
+        "tips-and-tricks/excel/2021-06-29-pv-function/pv-function",
       ],
       collapsed: false,
     },
