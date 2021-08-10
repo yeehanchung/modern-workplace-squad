@@ -306,8 +306,8 @@ export const squadMembers = [
     image: "/img/squad-profile-images/yee-han-chung.jpeg",
   },
   {
-    name: "Yen Yoo Cheu",
-    linkedin: "https://www.linkedin.com/in/cheu-yen-yoo-4713731a4",
+    name: "Cheu Yen Yoo",
+    linkedin: "https://www.linkedin.com/in/yoo-cheu-yen-4713731a4/",
     image: "/img/squad-profile-images/yen-yoo-cheu.png",
   },
   {
