@@ -1,27 +1,27 @@
 export const leaders = [
   {
-    quarter: "April - June 2021",
+    quarter: "April - September 2021",
     name: "Stephanie Chong",
     position: "Subang Leader",
     linkedin: "https://www.linkedin.com/in/stephanie-chong-7b36291a4/",
     image: "/img/squad-profile-images/stephanie-chong.jpg",
   },
   {
-    quarter: "April - June 2021",
+    quarter: "April - September 2021",
     name: "Jenn Shin Hui Fu",
     position: "Subang Vice Leader",
     linkedin: "https://www.linkedin.com/in/jenn-fu-75674719b/",
     image: "/img/squad-profile-images/jenn-fu.png",
   },
   {
-    quarter: "April - June 2021",
+    quarter: "April - September 2021",
     name: "Fui May Chong",
     position: "Nilai Leader",
     linkedin: "https://www.linkedin.com/in/chong-fui-may-421631204",
     image: "/img/squad-profile-images/fui-may-chong.png",
   },
   {
-    quarter: "April - June 2021",
+    quarter: "April - September 2021",
     name: "Krishna Priya Udayakumar",
     position: "Nilai Vice Leader",
     linkedin: "https://www.linkedin.com/in/krishna-priya-udayakumar-02bb76204",
