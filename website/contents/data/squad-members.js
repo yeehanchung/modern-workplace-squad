@@ -1,13 +1,18 @@
 export const squadMembers = [
   {
-    name: "Ainaa Radhiah Binti Nur Azam",
-    linkedin: "https://www.linkedin.com/in/ainaarna",
-    image: "/img/squad-profile-images/ainaa-azam.png",
+    name: "Ai Leng Ting",
+    linkedin: "https://www.linkedin.com/in/ting-ai-leng-674aa61b2/",
+    image: "/img/squad-profile-images/ai-leng-ting.jpeg",
   },
   {
     name: "Ain Batrisyia",
     linkedin: "https://www.linkedin.com/in/ainbatrisyiashaharuddin/",
     image: "/img/squad-profile-images/ain-batrisyia.jpeg",
+  },
+  {
+    name: "Ainaa Radhiah Binti Nur Azam",
+    linkedin: "https://www.linkedin.com/in/ainaarna",
+    image: "/img/squad-profile-images/ainaa-azam.png",
   },
   {
     name: "Amanda Kar Kei Aw",
@@ -109,6 +114,16 @@ export const squadMembers = [
     image: "/img/squad-profile-images/joanne-lou.jpg",
   },
   {
+    name: "Joanne Si Ann Loo",
+    linkedin: "https://www.linkedin.com/in/joanne-loo-si-ann-261819177/",
+    image: "/img/squad-profile-images/joanne-si-ann-loo.png",
+  },
+  {
+    name: "Joseph Xin Xiang Wong",
+    linkedin: "https://www.linkedin.com/in/joseph-wong-xin-xiang-a079461b6/",
+    image: "/img/squad-profile-images/joseph-xin-xiang-wong.jpg",
+  },
+  {
     name: "Jun Wen Chin",
     linkedin: "https://www.linkedin.com/in/junwen888/",
     image: "/img/squad-profile-images/jun-wen-chin.jpg",
@@ -169,6 +184,21 @@ export const squadMembers = [
     image: "/img/squad-profile-images/louis-ezra-endro.jpg",
   },
   {
+    name: "May Mei Mei Lee",
+    linkedin: "https://www.linkedin.com/in/may-lee-56421a205",
+    image: "/img/squad-profile-images/may-mei-mei-lee.jpeg",
+  },
+  {
+    name: "Michelle Khai Le Yee",
+    linkedin: "https://www.linkedin.com/in/michelleklyee1998/",
+    image: "/img/squad-profile-images/michelle-khai-le-yee.jpeg",
+  },
+  {
+    name: "Michelle Loo Xuan Wen",
+    linkedin: "https://www.linkedin.com/in/michelle-loo-xuan-wen-246874201",
+    image: "/img/squad-profile-images/michelle-xuan-wen-loo.png",
+  },
+  {
     name: "Michelle Loo Xuan Wen",
     linkedin: "https://www.linkedin.com/in/michelle-loo-xuan-wen-246874201",
     image: "/img/squad-profile-images/michelle-xuan-wen-loo.png",
@@ -209,6 +239,11 @@ export const squadMembers = [
     image: "/img/squad-profile-images/nazhif-ridzuan.png",
   },
   {
+    name: "Nicole Kim Kim Lian",
+    linkedin: "https://www.linkedin.com/in/nicole-lian29/",
+    image: "/img/squad-profile-images/nicole-kim-kim-lian.jpeg",
+  },
+  {
     name: "Phoenix Yee",
     linkedin: "https://www.linkedin.com/in/phoenixyee/",
     image: "/img/squad-profile-images/phoenix-yee.jpg",
@@ -219,6 +254,11 @@ export const squadMembers = [
     image: "/img/squad-profile-images/poh-yee-lew.jpg",
   },
   {
+    name: "Ponabalam Deyeera",
+    linkedin: "https://www.linkedin.com/in/deyeera-ponambalam-7553b6184/",
+    image: "/img/squad-profile-images/ponambalam-deyeera.jpeg",
+  },
+  {
     name: "Praveendira Rao Madhavan",
     linkedin: "https://www.linkedin.com/in/praveendira-rao-m-3683aaa1/",
     image: "/img/squad-profile-images/praveendira-rao-madhavan.jpg",
@@ -227,6 +267,11 @@ export const squadMembers = [
     name: "Rafia Ferdous",
     linkedin: "https://www.linkedin.com/in/rafia-ferdous-mim-29b015196/",
     image: "/img/squad-profile-images/rafia-ferdous.jpg",
+  },
+  {
+    name: "Riann Han Ying Ang",
+    linkedin: "https://www.linkedin.com/in/riann-ang-han-ying-a3943b205/",
+    image: "/img/squad-profile-images/riann-han-ying-ang.jpeg",
   },
   {
     name: "Ruhdra Shree",
@@ -271,6 +316,11 @@ export const squadMembers = [
     image: "/img/squad-profile-images/sze-yin-cheah-evelyn.jpg",
   },
   {
+    name: "Talukdar Tipu",
+    linkedin: "https://www.linkedin.com/in/tipu-talukdar-355a741b1",
+    image: "/img/squad-profile-images/talukdar-tipu.jpeg",
+  },
+  {
     name: "Tuan Sihan",
     linkedin: "https://www.linkedin.com/in/tuansihan/",
     image: "/img/squad-profile-images/tuan-sihan.png",
@@ -296,9 +346,19 @@ export const squadMembers = [
     image: "/img/squad-profile-images/wen-man-chin.png",
   },
   {
+    name: "Whitney Wei Sin Hum",
+    linkedin: "https://www.linkedin.com/in/whitney-hum-210950214/",
+    image: "/img/squad-profile-images/whitney-wei-sin-hum.jpeg",
+  },
+  {
     name: "Xin Yu Lee",
     linkedin: "https://www.linkedin.com/in/xinyuleebab73b195/",
     image: "/img/squad-profile-images/xin-yu-lee.jpg",
+  },
+  {
+    name: "Ya Shuen Liew",
+    linkedin: "https://www.linkedin.com/in/ya-shuen-liew-963739213/",
+    image: "/img/squad-profile-images/ya-shuen-liew.jpg",
   },
   {
     name: "Yee Han Chung",
