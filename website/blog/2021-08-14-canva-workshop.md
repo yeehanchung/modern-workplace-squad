@@ -1,10 +1,10 @@
 ---
 slug: Canva Workshop
 title: Canva Workshop 🖌️
-author: Sher Ree Koh
+author: Ai Leng Ting
 author_title: Ambassador | Microsoft Modern Workplace
-author_url: https://www.linkedin.com/in/koh-sher-ree-b8a62a204/
-author_image_url: /img/squad-profile-images/sher-ree-koh.png
+author_url: https://www.linkedin.com/in/ting-ai-leng-674aa61b2/
+author_image_url: /img/squad-profile-images/ai-leng-ting.jpeg
 tags: [training]
 ---
 
