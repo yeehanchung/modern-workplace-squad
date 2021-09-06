@@ -132,6 +132,10 @@ module.exports = {
   newsletters: [
     {
       type: "doc",
+      id: "newsletters/august-2021",
+    },
+    {
+      type: "doc",
       id: "newsletters/june-and-july-2021",
     },
     {
