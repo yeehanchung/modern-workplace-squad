@@ -64,7 +64,7 @@ function Home() {
             <span className="hero__title__4p">ft</span> 
             {" "}Office 365
           </h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <h4 className="hero__subtitle">{siteConfig.tagline}</h4>
           <div className={styles.buttons}>
             <Link className={clsx("button button--outline button--secondary button--lg", styles.getStarted)} to={useBaseUrl("docs/intro")}>
               Get Started
