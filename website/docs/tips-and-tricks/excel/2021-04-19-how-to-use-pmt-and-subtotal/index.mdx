@@ -3,11 +3,19 @@ id: how-to-use-pmt-and-subtotal
 title: PMT and subtotal function
 ---
 
-import { AuthorCard } from '@site/src/components/author-card.js';
+import { AuthorCard } from "@site/src/components/author-card.js";
 
-<AuthorCard name="Zhen Hao Lee" image="/img/squad-profile-images/zhen-hao-lee.jpg" role="Microsoft MWS Ambassador" linkedinUrl="https://www.linkedin.com/in/lee-zhen-hao-a28a96155/" />
+<AuthorCard
+	author={[
+		{
+			name: "Zhen Hao Lee",
+			image: "/img/squad-profile-images/zhen-hao-lee.jpg",
+			linkedinUrl: "https://www.linkedin.com/in/lee-zhen-hao-a28a96155/",
+		},
+	]}
+/>
 
-Tired of manual calculation for payment? 
+Tired of manual calculation for payment?
 
 Why not use the **payment function (PMT)** by Excel?
 
@@ -39,7 +47,7 @@ You got it! You need to pay RM 489.15 monthly.
 
 ### Step 4
 
-Does not like negative sign or bracket? 
+Does not like negative sign or bracket?
 
 **Put negative sign in front of PMT**: `=-PMT()`
 
@@ -51,6 +59,6 @@ Does not like negative sign or bracket?
 
 ## Stay connected with us
 
-[Instagram](https://www.instagram.com/microsoft_mws/) | 
-[Facebook](https://www.facebook.com/microsoft.mws) | 
+[Instagram](https://www.instagram.com/microsoft_mws/) |
+[Facebook](https://www.facebook.com/microsoft.mws) |
 [LinkedIn](https://www.linkedin.com/company/mwsquad/)

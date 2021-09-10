@@ -1,11 +1,11 @@
 ---
 id: remove-n-characters-from-field
-title: Remove n characters from field  
+title: Remove n characters from field
 ---
 
-import { AuthorCard } from '@site/src/components/author-card.js';
+import { AuthorCard } from "@site/src/components/author-card.js";
 
-<AuthorCard name="Yee Han Chung" image="/img/squad-profile-images/yee-han-chung.jpeg" role="Microsoft MWS Ambassador" linkedinUrl="https://www.linkedin.com/in/cyeehan/" />
+<AuthorCard author={[{ name: "Yee Han Chung", image: "/img/squad-profile-images/yee-han-chung.jpeg", linkedinUrl: "https://www.linkedin.com/in/cyeehan/" }]} />
 
 :::tip
 
@@ -17,7 +17,7 @@ May use UPPERCASE or lowercase for the `Excel function` as shown below.
 
 ```shell
 # UPPERCASE
-RIGHT(B1, LEN(B1) - 10) 
+RIGHT(B1, LEN(B1) - 10)
 
 # lowercase
 right(b1, len(b1) - 10)
@@ -40,8 +40,8 @@ right(b1, len(b1) - 10)
 
 As shown below, `len(b1)` equals **19 characters**.
 
-- `VM14795:1 ` including the whitespace is **10 characters**.
-- `Pyongyang` is **9 characters**.
+-   `VM14795:1 ` including the whitespace is **10 characters**.
+-   `Pyongyang` is **9 characters**.
 
 ![](step-1.png)
 
@@ -61,4 +61,4 @@ Da dang!
 
 ### References
 
-- https://exceljet.net/excel-functions/excel-right-function
+-   https://exceljet.net/excel-functions/excel-right-function
