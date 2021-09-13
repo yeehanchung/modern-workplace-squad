@@ -1,25 +1,24 @@
 .container {
-  margin: 5%;
-  text-align: center;
+	margin: 5%;
+	text-align: center;
 }
 
 .main {
-  display: inline-block;
+	display: inline-block;
 }
 
 /* Mapping each member */
 
 .person {
-  width: 170px;
-  height: 180px;
+	width: 190px;
+	height: 180px;
 }
 
 .name {
-  margin: 10px;
+	margin: 10px;
 }
 
 .img {
-  border-radius: 50%;
-  width: 100px;
+	border-radius: 50%;
+	width: 100px;
 }
-
