@@ -12,10 +12,8 @@ function SquadMembers() {
     return (
       <div className={styles.main} key={idx}>
         <div className={styles.person}>
-          <div className={styles.name}>{name}</div>
+          <div className={styles.name}> <a href={linkedin}>{name}</a></div>
           <img src={image} alt={name} className={styles.img} />
-          <br />
-          <a href={linkedin}>LinkedIn</a>
         </div>
       </div>
     );

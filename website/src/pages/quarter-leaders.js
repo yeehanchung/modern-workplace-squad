@@ -16,11 +16,10 @@ function QuarterLeaders() {
         {idx % 4 === 0 ? <><br/><br/><h3>{quarter}</h3></> : ""}
         <div className={styles.main} key={idx}>
           <div className={styles.person}>
-            <div className={styles.name}>{name}</div>
+            <div className={styles.name}> <a href={linkedin}>{name}</a></div>
             <img src={image} alt={name} className={styles.img} />
             <br />
             <div className={styles.name}>{position}</div>
-            <a href={linkedin}>LinkedIn</a>
           </div>
         </div>
       </>
