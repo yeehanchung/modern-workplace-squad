@@ -197,11 +197,6 @@ export const squadMembers = [
 		image: "/img/squad-profile-images/michelle-xuan-wen-loo.png",
 	},
 	{
-		name: "Michelle Loo Xuan Wen",
-		linkedin: "https://www.linkedin.com/in/michelle-loo-xuan-wen-246874201",
-		image: "/img/squad-profile-images/michelle-xuan-wen-loo.png",
-	},
-	{
 		name: "Michelle Machingaidze",
 		linkedin: "https://www.linkedin.com/in/michelle-machingaidze/",
 		image: "/img/squad-profile-images/michelle-machingaidze.jpg",
