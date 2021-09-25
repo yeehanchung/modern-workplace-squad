@@ -66,7 +66,7 @@ function Home() {
           </h1>
           <h4 className="hero__subtitle">{siteConfig.tagline}</h4>
           <div className={styles.buttons}>
-            <Link className={clsx("button button--outline button--secondary button--lg", styles.getStarted)} to={useBaseUrl("docs/intro")}>
+            <Link className={clsx("button button--outline button--secondary button--lg", styles.getStarted)} to={useBaseUrl("docs/tips-and-tricks/introduction")}>
               Get Started
             </Link>
           </div>
