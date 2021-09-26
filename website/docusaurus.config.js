@@ -59,6 +59,12 @@ module.exports = {
           label: 'Newsletters',
           position: 'left',
         },
+        {
+          to: '/feedback',
+          docId: 'feedback',
+          label: 'Feedback',
+          position: 'left',
+        },
         /**
          * Right side
          */
