@@ -11,19 +11,19 @@ A lot of things happend on 3rd, 4th, and 9th July 2021. We have 11 new babies jo
 
 ## Things that happened on 3rd and 4th July 2021
 
-On the 3rd and 4th July 2021, Modern Workplace Squad had organized a 2-day Bootcamp to recruit new Modern Workplace Members. During this 2-day bootcamp, it was packed with the training of Office 365 application. We would like to thank the trainers and facilitators for their hard work to make this event a success. 
+On the 3rd and 4th July 2021, Modern Workplace Squad had organized a 2-day Bootcamp to recruit new Modern Workplace Members. During this 2-day bootcamp, it was packed with the training of Office 365 application. We would like to thank the trainers and facilitators for their hard work to make this event a success.
 
 - Sihan Rainudeen Tuan Harith (Microsoft Word)
 - Gladys Loh Xiao Shan (OneDrive)
 - Tee Jye Yie (Excel)
 - Ng Jin Ern (One Note)
 - Evelyn Cheah Sze Yin (Microsoft Team)
-- Fu Shin Hui (Outlook)  
+- Fu Shin Hui (Outlook)
 - Yoo Cheu Yen (Timekeeper)
 - Lee Cze Yik (Chat keeper)
 - Veishnawi A/p Nehru (Moderator)
 
-Modern Workplace Squad also organized a short Kahoot session to engage with the participants. All the participants joined the Kahoot session and had lots of fun. Group photos had been taken to remember this fruitful day. 
+Modern Workplace Squad also organized a short Kahoot session to engage with the participants. All the participants joined the Kahoot session and had lots of fun. Group photos had been taken to remember this fruitful day.
 
 There was a total of 27 participants.
 
@@ -39,8 +39,7 @@ The judges were Teoh Mun Hong from Microsoft and Miss Uma from INTI Subang. Ther
 
 The participants delivered their presentations with confidence and with an interesting story line. Mun Hong and Miss Uma gave their feedbacks and comments to the participants. They also questioned the participants on their expectations and contribution to the squad.
 
-The assessment lasted for 2 hours and the judges finally selected all the 11 participants as the official Modern Workplace Squad members. 
-Let’s Welcome the new members of the squad:
+The assessment lasted for 2 hours and the judges finally selected all the 11 participants as the official Modern Workplace Squad members. Let’s Welcome the new members of the squad:
 
 - Deyeera A/p S Ponambalam
 - Tipu Talukdar

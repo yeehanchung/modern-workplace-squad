@@ -5,7 +5,7 @@ authors: [Sher Ree]
 tags: [alumni]
 ---
 
-On 14 May 2021, Modern Workplace Squad has organized the very first **Alumni Sharing Session**. This sharing session was held from 8 pm to 9.30 pm on the topic of **“The transition from college graduates to working adults”**.  
+On 14 May 2021, Modern Workplace Squad has organized the very first **Alumni Sharing Session**. This sharing session was held from 8 pm to 9.30 pm on the topic of **“The transition from college graduates to working adults”**.
 
 ![Group Photo Grid](img/2021-01-29-launching-smp/group_photo_grid.png)
 

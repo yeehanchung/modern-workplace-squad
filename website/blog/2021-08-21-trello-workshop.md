@@ -5,7 +5,7 @@ authors: [Cheu Yen]
 tags: [training]
 ---
 
-The session was led by Lee Zhen Hao, who led the Social Media Program in the previous quarter and assisted by Goh Zi Ching, who led the Squad in the previous quarter. 
+The session was led by Lee Zhen Hao, who led the Social Media Program in the previous quarter and assisted by Goh Zi Ching, who led the Squad in the previous quarter.
 
 <!--truncate-->
 

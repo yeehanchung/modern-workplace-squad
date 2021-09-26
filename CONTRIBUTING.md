@@ -28,7 +28,7 @@ feat: add newsletter section
 
 1. "feat:"                         > is the Type of commit.
 2. "add"                           > present tense.
-3. "add newsletter section"        > summary of the commit. 
+3. "add newsletter section"        > summary of the commit.
 4. "feat: add newsletter section"  > all are lowercase.
 
 Note: Do not use past tense or title case.

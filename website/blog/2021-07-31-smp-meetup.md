@@ -28,4 +28,3 @@ They also explained the SMP structure thoroughly and revealed the upcoming event
 Moreover, the Tech Team Leader, Chung Yee Han also gave a short speech and had a short sharing session with the members on GitHub, and the current website of Modern Workplace Squad.
 
 Before the session ended, we took a group photo to remember this event, Overall, all the members had fun and enjoyed the session.
-

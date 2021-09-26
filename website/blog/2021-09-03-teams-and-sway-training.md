@@ -9,7 +9,7 @@ On the 20th of August 2021, **Modern Workplace Squad** had organized an internal
 
 <!--truncate-->
 
-At 8pm, the session stared with a warm welcome by our squad leaders. The squad leaders hope that with this internal training, the members will be able to learn new tips and tricks and also to be able to become a trainer for one of the workshops. Following that, the training for Microsoft Teams began. 
+At 8pm, the session stared with a warm welcome by our squad leaders. The squad leaders hope that with this internal training, the members will be able to learn new tips and tricks and also to be able to become a trainer for one of the workshops. Following that, the training for Microsoft Teams began.
 
 In the beginning, Evelyn showed the members some basic functions. She also introduced to us some new functions such as whiteboard and meeting note. Meeting note is used for writing down some notes right here in Microsoft Teams. With whiteboard, we can demonstrate things to the audience. Another fun way to utilize whiteboard is by playing games such as Scribble. One of the tips in Teams that amaze the audience was the keyboard shortcuts. By clicking “Ctrl +.” we can access all the keyboard shortcut that can help make our work faster and more efficient.
 

@@ -5,7 +5,7 @@ authors: [Ai Leng]
 tags: [appreciation]
 ---
 
-On 27th August 2021, Modern Workplace Squad had a very special Appreciation Day. It was held to commemorate our collaboration with Microsoft, INTI Career Services, INTIMA and appreciate all squad members for their cooperation and effort in making all our events and initiatives successful. It was held from 1pm to 2pm. Afterwards, a short one-hour training on Power BI was conducted for our squad members.  
+On 27th August 2021, Modern Workplace Squad had a very special Appreciation Day. It was held to commemorate our collaboration with Microsoft, INTI Career Services, INTIMA and appreciate all squad members for their cooperation and effort in making all our events and initiatives successful. It was held from 1pm to 2pm. Afterwards, a short one-hour training on Power BI was conducted for our squad members.
 
 ![MWS group picture](img/2021-09-04-mws-appreciation-day/mws-appreciation-day-11.png)
 
@@ -45,7 +45,7 @@ Then, Sher Ree introduced our team of writers in this quarter consisting of me (
 
 ![Facebook insight](img/2021-09-04-mws-appreciation-day/mws-appreciation-day-6.png)
 
-Other than that, our squad leaders had their first meeting with INTIMA Subang to discuss potential collaboration ideas. Our reliable leaders, Stephanie, Jenn Fu, May Chong and Krishna Priya from INTI Nilai and Subang introduced our squad in the August orientation to the new intake students. 
+Other than that, our squad leaders had their first meeting with INTIMA Subang to discuss potential collaboration ideas. Our reliable leaders, Stephanie, Jenn Fu, May Chong and Krishna Priya from INTI Nilai and Subang introduced our squad in the August orientation to the new intake students.
 
 We also had a Microsoft training workshop for the new intake students. Our newly recruited squad members consisting of Liew Ya Shuen, Joseph Wong, Deyeera and Michelle Yee did a wonderful job in training the new students and taking up the challenge just within a month after joining. Our Subang leader, Stephanie, remarked it was exhausting, yet satisfying in preparing for this together.
 
