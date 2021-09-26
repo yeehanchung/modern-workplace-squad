@@ -4,7 +4,7 @@ import React from 'react';
 function Feedback() {
   return (
     <Layout
-      title="Microsoft Modern Workplace Squad Feedback Form"
+      title="Feedback Form"
       description="Feedback form for reinvention and experience improvement"
     >
       <iframe
