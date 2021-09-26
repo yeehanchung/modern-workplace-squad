@@ -2,7 +2,7 @@
 slug: launching-social-media-programme 
 title: Launching Social Media Programme
 author: Zhen Hao Lee
-author_title: Ambassador @ Microsoft Malaysia
+author_title: Ex-leader of Microsoft Modern Workplace
 author_url: https://www.linkedin.com/in/lee-zhen-hao-a28a96155/
 author_image_url: /img/squad-profile-images/zhen-hao-lee.jpg
 tags: [social media programme]
