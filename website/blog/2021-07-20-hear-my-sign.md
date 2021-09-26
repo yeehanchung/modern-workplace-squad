@@ -1,10 +1,7 @@
 ---
 slug: hear-my-sign-event-july-2021
 title: Hear My Sign Event 🤟
-author: Veishnawi A/P Nehru
-author_title: Ambassador | Microsoft Modern Workplace
-author_url: https://www.linkedin.com/in/taylor-vn-19vn12/
-author_image_url: /img/squad-profile-images/veishnawi-ap-nehru.jpg
+authors: [Veishnawi, Whitney Hum]
 tags: [training]
 ---
 

@@ -1,10 +1,7 @@
 ---
 slug: modern-workplace-squad-appreciate-day-27-august-2021
 title: MWS Appreciation Day
-author: Ai Leng Ting
-author_title: Ambassador | Microsoft Modern Workplace
-author_url: https://www.linkedin.com/in/ting-ai-leng-674aa61b2/
-author_image_url: /img/squad-profile-images/ai-leng-ting.jpeg
+authors: [Ai Leng]
 tags: [appreciation]
 ---
 

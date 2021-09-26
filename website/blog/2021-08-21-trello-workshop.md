@@ -1,10 +1,7 @@
 ---
 slug: trello-workshop-august-2021
 title: Trello Workshop 🗃
-author: Cheu Yen Yoo
-author_title: Ambassador | Microsoft Modern Workplace
-author_url: https://www.linkedin.com/in/yoo-cheu-yen-4713731a4/
-author_image_url: /img/squad-profile-images/yen-yoo-cheu.png
+authors: [Cheu Yen]
 tags: [training]
 ---
 

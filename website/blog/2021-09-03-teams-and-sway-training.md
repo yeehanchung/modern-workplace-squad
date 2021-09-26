@@ -1,10 +1,7 @@
 ---
 slug: internal-training-teams-and-sway-20-august-2021
 title: Teams and Sway Training (Internal) 💻
-author: Sher Ree Koh
-author_title: Ambassador | Microsoft Modern Workplace
-author_url: https://www.linkedin.com/in/koh-sher-ree-b8a62a204/
-author_image_url: /img/squad-profile-images/sher-ree-koh.png
+authors: [Sher Ree]
 tags: [training, sway, teams]
 ---
 
