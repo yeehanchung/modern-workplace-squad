@@ -1,27 +1,27 @@
 module.exports = {
-  title: "Modern Workplace Squad",
-  tagline: "Learn more about us",
-  url: "https://modern-workplace-squad.netlify.app",
-  baseUrl: "/",
-  onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
-  organizationName: "cyeehan", // Usually your GitHub org/user name.
-  projectName: "modern-workplace-squad", // Usually your repo name.
+  title: 'Modern Workplace Squad',
+  tagline: 'Learn more about us',
+  url: 'https://modern-workplace-squad.netlify.app',
+  baseUrl: '/',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/favicon.ico',
+  organizationName: 'cyeehan', // Usually your GitHub org/user name.
+  projectName: 'modern-workplace-squad', // Usually your repo name.
   themeConfig: {
     /**
      * Misc
      */
-    image: "img/og_image.png",
+    image: 'img/og_image.png',
     hideableSidebar: true,
     /**
      * Navigation bar
      */
     navbar: {
-      title: "Modern Workplace Squad",
+      title: 'Modern Workplace Squad',
       logo: {
-        alt: "My Site Logo",
-        src: "img/svg/logo.svg",
+        alt: 'My Site Logo',
+        src: 'img/svg/logo.svg',
       },
       items: [
         /**
@@ -36,44 +36,44 @@ module.exports = {
         //   position: "left",
         // },
         {
-          to: "/docs/tips-and-tricks/introduction",
-          activeBaseRegex: "/tips-and-tricks/",
-          docId: "tipsandtricks",
-          label: "Tips and Tricks",
-          position: "left",
+          to: '/docs/tips-and-tricks/introduction',
+          activeBaseRegex: '/tips-and-tricks/',
+          docId: 'tipsandtricks',
+          label: 'Tips and Tricks',
+          position: 'left',
         },
         {
-          to: "/blog/",
-          activeBasePath: "/blog/",
-          label: "Blog",
-          position: "left",
+          to: '/blog/',
+          activeBasePath: '/blog/',
+          label: 'Blog',
+          position: 'left',
         },
         {
-          to: "/docs/newsletters/august-2021",
-          docId: "newsletters",
-          activeBaseRegex: "/newsletters/",
-          label: "Newsletters",
-          position: "left",
+          to: '/docs/newsletters/august-2021',
+          docId: 'newsletters',
+          activeBaseRegex: '/newsletters/',
+          label: 'Newsletters',
+          position: 'left',
         },
         /**
          * Right side
          */
         {
-          to: "/leaders",
-          docId: "leaders",
-          label: "Leaders",
-          position: "right",
+          to: '/leaders',
+          docId: 'leaders',
+          label: 'Leaders',
+          position: 'right',
         },
         {
-          to: "/squad-members",
-          docId: "squad-members",
-          label: "Squad",
-          position: "right",
+          to: '/squad-members',
+          docId: 'squad-members',
+          label: 'Squad',
+          position: 'right',
         },
         /* End of Markdown files */
         {
-          href: "https://github.com/cyeehan/mws-site",
-          position: "right",
+          href: 'https://github.com/cyeehan/mws-site',
+          position: 'right',
           className: 'header-github-link',
           'aria-label': 'GitHub repository',
         },
@@ -83,7 +83,7 @@ module.exports = {
      * Google Analytics
      */
     gtag: {
-      trackingID: "G-45057ZJV37",
+      trackingID: 'G-45057ZJV37',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
@@ -91,55 +91,55 @@ module.exports = {
      * Footer
      */
     footer: {
-      style: "dark",
+      style: 'dark',
       links: [
         // Left column
         {
-          title: "About Us",
+          title: 'About Us',
           items: [
             {
-              label: "Introduction",
-              to: "docs/tips-and-tricks/introduction",
+              label: 'Introduction',
+              to: 'docs/tips-and-tricks/introduction',
             },
             {
-              label: "Leaders",
-              to: "leaders",
+              label: 'Leaders',
+              to: 'leaders',
             },
             {
-              label: "Squad",
-              to: "squad-members",
+              label: 'Squad',
+              to: 'squad-members',
             },
           ],
         },
         // Middle column
         {
-          title: "Community",
+          title: 'Community',
           items: [
             {
-              label: "Instagram",
-              href: "https://www.instagram.com/microsoft_mws/",
+              label: 'Instagram',
+              href: 'https://www.instagram.com/microsoft_mws/',
             },
             {
-              label: "Facebook",
-              href: "https://www.facebook.com/microsoft.mws",
+              label: 'Facebook',
+              href: 'https://www.facebook.com/microsoft.mws',
             },
             {
-              label: "LinkedIn",
-              href: "https://www.linkedin.com/company/mwsquad/",
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/company/mwsquad/',
             },
           ],
         },
         // Right column
         {
-          title: "More",
+          title: 'More',
           items: [
             {
-              label: "Blog",
-              to: "blog",
+              label: 'Blog',
+              to: 'blog',
             },
             {
-              label: "GitHub",
-              href: "https://github.com/cyeehan/modern-workplace-squad",
+              label: 'GitHub',
+              href: 'https://github.com/cyeehan/modern-workplace-squad',
             },
           ],
         },
@@ -150,26 +150,28 @@ module.exports = {
   // Presets
   presets: [
     [
-      "@docusaurus/preset-classic",
+      '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: require.resolve('./sidebars.js'),
           /**
            * related to custom_edit_url for docs directory
            */
-          editUrl: "https://github.com/cyeehan/modern-workplace-squad/tree/master/website",
+          editUrl:
+            'https://github.com/cyeehan/modern-workplace-squad/tree/master/website',
         },
-        
+
         blog: {
           authorsMapPath: '/authors.yaml',
           showReadingTime: true,
-           /**
+          /**
            * related to custom_edit_url for blog directory
            */
-          editUrl: "https://github.com/cyeehan/modern-workplace-squad/tree/master/website",
+          editUrl:
+            'https://github.com/cyeehan/modern-workplace-squad/tree/master/website',
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+          customCss: require.resolve('./src/css/custom.css'),
         },
       },
     ],
