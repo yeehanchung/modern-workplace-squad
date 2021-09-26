@@ -1,10 +1,7 @@
 ---
 slug: bloody-run-challenge
 title: Blood Run Challenge 🏃‍♀️🏃‍♂️
-author: Sher Ree Koh
-author_title: Ambassador | Microsoft Modern Workplace
-author_url: https://www.linkedin.com/in/koh-sher-ree-b8a62a204/
-author_image_url: /img/squad-profile-images/sher-ree-koh.png
+authors: [Sher Ree, Stephanie Chong]
 tags: [challenge]
 ---
 

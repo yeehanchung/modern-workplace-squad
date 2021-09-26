@@ -155,7 +155,9 @@ module.exports = {
            */
           editUrl: "https://github.com/cyeehan/modern-workplace-squad/tree/master/website",
         },
+        
         blog: {
+          authorsMapPath: '/authors.yaml',
           showReadingTime: true,
            /**
            * related to custom_edit_url for blog directory
