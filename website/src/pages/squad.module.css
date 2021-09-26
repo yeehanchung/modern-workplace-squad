@@ -11,14 +11,45 @@
 
 .person {
 	width: 190px;
-	height: 150px;
+	min-height: 150px;
 }
 
 .name {
 	margin: 10px;
 }
 
+.position {
+	margin: 10px;
+	display: flex;
+	justify-content: center;
+	line-height: 1.4rem;
+}
+
+@media screen and (max-width: 440px) {
+	.position {
+		display: block;
+	}
+}
+
 .img {
 	border-radius: 50%;
 	width: 100px;
+}
+
+/* ----- Quarter headers ----- */
+
+.quarter_leader {
+	margin-top: 3rem;
+	margin-bottom: 0;
+}
+
+@media screen and (max-width: 440px) {
+	.quarter_leader {
+		padding-top: 0;
+	}
+}
+
+.each_quarter {
+	margin: 1.5rem 0 1rem 0;
+	font-style: italic;
 }
