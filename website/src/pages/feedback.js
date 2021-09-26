@@ -8,7 +8,7 @@ function Feedback() {
         <iframe
           style={{
             minWidth: '100%',
-            minHeight: '1000px',
+            height: '100vh',
             display: 'block',
             marginLeft: 'auto',
             marginRight: 'auto',
