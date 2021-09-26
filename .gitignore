@@ -1,8 +1,9 @@
 # Dependencies
-/node_modules
+node_modules
+.yarn
 
 # Production
-/build
+build
 
 # Generated files
 .docusaurus
@@ -10,6 +11,7 @@
 
 # Misc
 .DS_Store
+.vscode
 .env.local
 .env.development.local
 .env.test.local
