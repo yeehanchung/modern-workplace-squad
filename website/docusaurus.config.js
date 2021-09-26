@@ -59,7 +59,7 @@ module.exports = {
          * Right side
          */
         {
-          to: "/quarter-leaders",
+          to: "/leaders",
           docId: "leaders",
           label: "Leaders",
           position: "right",
