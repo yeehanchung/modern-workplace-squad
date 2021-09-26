@@ -45,7 +45,7 @@ function QuarterLeaders() {
   return (
     <Layout title="Quarter Leaders" description="Quarter Leaders of Modern Workplace Squad throughout the journey.">
       <div className={styles.container}>
-        <h1>Hall of Famers</h1>
+        <h1 style={{ marginBottom: '2rem' }}>Hall of Famers</h1>
         {hallOfFamer}
         <h1 className={styles.quarter_leader}>Quarter Leaders</h1>
         {listPerson}
