@@ -1,0 +1,26 @@
+{
+  "name": "modern-workplace-squad",
+  "private": true,
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">   <a href=\"https://modern-workplace-squad.netlify.app/\"><img alt=\"Modern Workplace Squad\" src=\"website/static/img/svg/logo.svg\"></a> </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier-docs": "prettier --config .prettierrc --write \"**/*.{md,mdx}\"",
+    "prettier-docs:diff": "prettier --config .prettierrc --list-different \"**/*.{md,mdx}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyeehan/modern-workplace-squad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyeehan/modern-workplace-squad/issues"
+  },
+  "homepage": "https://github.com/cyeehan/modern-workplace-squad#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
