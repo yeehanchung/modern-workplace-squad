@@ -99,7 +99,11 @@ module.exports = {
           items: [
             {
               label: "Introduction",
-              to: "docs/intro",
+              to: "docs/tips-and-tricks/introduction",
+            },
+            {
+              label: "Leaders",
+              to: "leaders",
             },
             {
               label: "Squad",
