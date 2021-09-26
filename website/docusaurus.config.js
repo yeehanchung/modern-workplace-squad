@@ -9,6 +9,10 @@ module.exports = {
   organizationName: 'cyeehan', // Usually your GitHub org/user name.
   projectName: 'modern-workplace-squad', // Usually your repo name.
   themeConfig: {
+    announcementBar: {
+      id: 'announcement-bar', // Increment on change
+      content: `⭐️ If you find the information useful, please follow us on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/microsoft_mws/">Instagram</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/microsoft.mws" >Facebook</a>, and <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mwsquad/" >LinkedIn</a>.`,
+    },
     /**
      * Misc
      */
@@ -153,6 +157,8 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
           /**
            * related to custom_edit_url for docs directory
