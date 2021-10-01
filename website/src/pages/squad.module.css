@@ -53,3 +53,16 @@
 	margin: 1.5rem 0 1rem 0;
 	font-style: italic;
 }
+
+.nominationLink {
+	animation: color-change 4s ease-in-out infinite;
+}
+
+@keyframes color-change {
+  0%, 100% { color: rgb(248, 108, 38); }
+  50% { color: rgb(27, 233, 244); }
+}
+
+.nomination {
+	margin-top: 1rem;
+}

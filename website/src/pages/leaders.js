@@ -60,6 +60,9 @@ function QuarterLeaders() {
       <div className={styles.container}>
         <h1 style={{ marginBottom: '2rem' }}>Hall of Famers</h1>
         {hallOfFamer}
+        <div className={styles.nomination}>
+          <a href="https://modern-workplace-squad.netlify.app/feedback/" alt="Feedback Form" className={styles.nominationLink}>Nominate someone 😎</a>
+        </div>
         <h1 className={styles.quarter_leader}>Quarter Leaders</h1>
         {listPerson}
       </div>
