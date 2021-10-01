@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prettier-docs": "prettier --config .prettierrc --write \"**/*.{md,mdx}\"",
     "prettier-docs:diff": "prettier --config .prettierrc --list-different \"**/*.{md,mdx}\"",
-    "prettier": "prettier --config .prettierrc --write \"**/*.{js,json}\""
+    "prettier": "prettier --config .prettierrc --write \"**/*.{js,json}\"",
+    "commit": "cz"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,12 @@
   },
   "homepage": "https://github.com/cyeehan/modern-workplace-squad#readme",
   "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
     "prettier": "^2.4.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
