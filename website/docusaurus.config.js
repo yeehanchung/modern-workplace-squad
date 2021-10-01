@@ -53,6 +53,12 @@ module.exports = {
           position: 'left',
         },
         {
+          to: '/leadership-blog/',
+          activeBasePath: '/leadership-blog/',
+          label: 'Leadership',
+          position: 'left',
+        },
+        {
           to: '/docs/newsletters/august-2021',
           docId: 'newsletters',
           activeBaseRegex: '/newsletters/',
@@ -172,10 +178,10 @@ module.exports = {
           editUrl:
             'https://github.com/cyeehan/modern-workplace-squad/tree/master/website',
         },
-
         blog: {
           authorsMapPath: '/authors.yaml',
           showReadingTime: true,
+          postsPerPage: 20,
           /**
            * related to custom_edit_url for blog directory
            */
@@ -185,6 +191,32 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+      },
+    ],
+  ],
+  // Plugins
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'leadership-blog',
+        authorsMapPath: '/authors.yaml',
+        blogSidebarCount: 0,
+        showReadingTime: true,
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: 'leadership-blog',
+        truncateMarker: /<!--\s*(truncate)\s*-->/,
+        // authorsMapPath: '/authors.yaml',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: 'leadership-blog',
       },
     ],
   ],
