@@ -207,7 +207,8 @@ module.exports = {
         blogSidebarCount: 0,
         showReadingTime: true,
         blogTitle: 'Leadership Blog',
-        blogDescription: 'Here is where the leaders of Microsoft Modern Workplace Squad share their learning journeys.',
+        blogDescription:
+          'Here is where the leaders of Microsoft Modern Workplace Squad share their learning journeys.',
         /**
          * URL route for the blog section of your site.
          * *DO NOT* include a trailing slash.
